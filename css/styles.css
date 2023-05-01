@@ -11512,10 +11512,18 @@ p.lead {
     margin: auto auto 0;
     padding: 0.5rem;
   }
+  /* #sideNav .navbar-brand .img-profile {
+    max-width: 10rem;
+    max-height: 10rem;
+    border: 0.5rem solid rgba(255, 255, 255, 0.2);
+  } */
+
   #sideNav .navbar-brand .img-profile {
     max-width: 10rem;
     max-height: 10rem;
     border: 0.5rem solid rgba(255, 255, 255, 0.2);
+    border-radius: 50%;
+    overflow: hidden;
   }
   #sideNav .navbar-collapse {
     display: flex;
