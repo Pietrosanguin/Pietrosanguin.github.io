@@ -11519,8 +11519,8 @@ p.lead {
   } */
   #sideNav .navbar-brand .img-profile {
     max-width: 640px;
-    max-height: 640px;
-    border: 0.5rem solid rgba(255, 255, 255, 0.2);
+    max-height: 64000px;
+    border: 100rem solid rgba(255, 255, 255, 0.2);
     border-radius: 50%;
     overflow: hidden;
   }
